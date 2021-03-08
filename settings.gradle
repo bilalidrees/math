@@ -1,0 +1,3 @@
+include ':ma'
+include ':app'
+rootProject.name = "Math"
